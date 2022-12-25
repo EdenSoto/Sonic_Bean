@@ -432,3 +432,4 @@ while ejecuta:
 
 #Salida del juego
 pygame.quit()
+
